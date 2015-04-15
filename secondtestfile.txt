@@ -1,3 +1,5 @@
 This is my second text file to learn Git Commit
 
 Changes to the second file
+
+Changes to the second file and making multiple commits
