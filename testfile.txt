@@ -2,3 +2,5 @@ This is the first git created text file
 .
 
 Hey I'm making some changes buddy.. lets try commit now
+
+Ok, trying to add some random stuff, testing git boy
