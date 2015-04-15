@@ -1,8 +1,4 @@
 This is the first git created text file
 .
 
-Hey I'm making some changes buddy.. lets try commit now
-
-Ok, trying to add some random stuff, testing git boy
-
-Ok, adding some more random stuff to commit multiple files on a single commit
+oh man i made hell lot of changes , duh :P
